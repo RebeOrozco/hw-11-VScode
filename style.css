@@ -33,7 +33,7 @@ p{
   width: 400px;
   height: 1000px;
   margin: 50px auto;
-  background-image: linear-gradient(rgba(255, 0, 0, 0.15), rgba(141, 102, 102, 0.75)), url("./assets/y-so-serious.png");
+  background-image: linear-gradient(rgba(255, 0, 0, 0.15), rgba(141, 102, 102, 0.75)), url("assets/y-so-serious.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -63,8 +63,8 @@ p{
 
 .hsl {
   background-color: hsl(0, 60%, 34%);
-  color: hsl(0, 0%, 95%);
-  /* change color to hsla(242, 242, 242, .8); after 1st commit*/
+  /*color: hsl(0, 0%, 95%);*/
+  color: hsla(242, 242, 242, .8); /*4th commit*/
   border: 5px solid hsl(0, 87%, 59%);
   font-family: 'Silkscreen', cursive;
 }
