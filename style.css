@@ -64,7 +64,7 @@ p{
 .hsl {
   background-color: hsl(0, 60%, 34%);
   /*color: hsl(0, 0%, 95%);*/
-  color: hsla(242, 242, 242, .8); /*4th commit*/
+  color: hsla(0, 12%, 47%, 0.8); /*4th commit*/
   border: 5px solid hsl(0, 87%, 59%);
   font-family: 'Silkscreen', cursive;
 }
